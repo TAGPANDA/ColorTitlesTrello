@@ -1,7 +1,7 @@
 .list-card-labels .card-label {
   height: inherit!important;
-  width: 100%!important;
-  line-height: 20px!important;
+  width: 30%!important;
+  line-height: 16px!important;
   text-align: center;
-  font-size: 10px;
+  font-size: 9px;
 }
